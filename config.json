@@ -22,7 +22,7 @@
   },
   "ads": {
     "status": true,
-    "main_ads": "admob",
+    "main_ads": "unity",
     "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
