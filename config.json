@@ -22,7 +22,7 @@
   },
   "ads": {
     "status": true,
-    "main_ads": "ironsource",
+    "main_ads": "admob",
     "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
